@@ -1,0 +1,6 @@
+carla==0.9.16
+pygame
+numpy
+pandas
+matplotlib
+scikit-learn
